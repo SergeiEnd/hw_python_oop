@@ -93,6 +93,7 @@ def main(training)
 
 для MacOS
  - ``` python3 -m venv venv ```
+
 для Windows
  - ``` python -m venv venv ```
  - ``` source venv/bin/activate ```

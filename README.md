@@ -94,12 +94,12 @@ get_message() - метод выводит возвращает строку со
 для MacOS
 ``` python3 -m venv venv ```
 для Windows
-``` python -m venv venv
-``` source venv/bin/activate
-``` source venv/Scripts/activate
+``` python -m venv venv ```
+``` source venv/bin/activate ```
+``` source venv/Scripts/activate ```
 - Установите зависимости из файла requirements.txt:
 
-``` pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 Автор
 ## Сергей Ендовицкий 

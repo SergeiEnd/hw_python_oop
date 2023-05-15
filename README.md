@@ -88,18 +88,18 @@ get_message() - метод выводит возвращает строку со
 Инструкции по установке
 - Клонируйте репозиторий:
 
-### git clone git@github.com:SergeiEnd/hw_python_oop.git
+``` git clone git@github.com:SergeiEnd/hw_python_oop.git ```
 - Установите и активируйте виртуальное окружение:
 
 для MacOS
-> python3 -m venv venv
+``` python3 -m venv venv ```
 для Windows
-> python -m venv venv
-> source venv/bin/activate
-> source venv/Scripts/activate
+``` python -m venv venv
+``` source venv/bin/activate
+``` source venv/Scripts/activate
 - Установите зависимости из файла requirements.txt:
 
-> pip install -r requirements.txt
+``` pip install -r requirements.txt
 
 Автор
 ## Сергей Ендовицкий 
